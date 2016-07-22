@@ -13,7 +13,7 @@
 - [实用的调试技巧](http://blog.csdn.net/qq_23547831/article/details/51868496)  
 - [微信热修复实践](<http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483679&idx=1&sn=9cee70fa2484844ff0332d2b0fbe27a5&scene=1&srcid=0721ijJUAwzBVY88i9MK5I5W&from=groupmessage&isappinstalled=0#wechat_redirect>)  [Tinker_imitator原理分析](https://github.com/zzz40500/Tinker_imitator)   
 - [安卓MVP架构思路](<http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483865&idx=1&sn=28d3c2f12138e5db0b0245efb1825d4f#rd>)  
-- [多渠道打包](<http://weibo.com/ttarticle/p/show?id=2309613999068912285353&u=2157957247&m=3999081686450171&cu=2157957247&ru=1870151774&rm=3999065446872599>)
+- [Android打包提速实践](<http://weibo.com/ttarticle/p/show?id=2309613999068912285353&u=2157957247&m=3999081686450171&cu=2157957247&ru=1870151774&rm=3999065446872599>)
 - [多渠道打包](<http://blog.csdn.net/qq_23547831/article/details/51569261>)
   
 
